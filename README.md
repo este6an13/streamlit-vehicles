@@ -2,6 +2,14 @@
 
 This Streamlit application allows you to visualize various aspects of a dataset containing information about vehicles in the United States. The app provides interactive charts and plots using Plotly Express to explore the distribution and relationships within the dataset.
 
+## Demo on Render
+
+[streamlit-vehicles-dataviz](https://streamlit-vehicles-dataviz.onrender.com/)
+
+
+![alt text](fig/image.png)
+
+
 ## Getting Started
 
 Clone the repository:
@@ -74,6 +82,13 @@ streamlit run app.py
 ## Dataset
 
 The application uses the 'vehicles_us.csv' dataset. Ensure that the dataset is in the same directory as the script.
+
+## Tech Stack
+
+- Anaconda
+- Plotly
+- Streamlit
+- Render
 
 ## Notes
 
